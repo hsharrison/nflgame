@@ -134,7 +134,7 @@ teams = [
     ['IND', 'Indianapolis', 'Colts', 'Indianapolis Colts'],
     ['JAC', 'Jacksonville', 'Jaguars', 'Jacksonville Jaguars', 'JAX'],
     ['KC', 'Kansas City', 'Chiefs', 'Kansas City Chiefs', 'K.C.', 'KAN'],
-    ['LA', 'Los Angeles', 'Rams', 'Los Angeles Rams', 'L.A.'],
+    ['LA', 'Los Angeles', 'Rams', 'Los Angeles Rams', 'L.A.', 'LAR', 'L.A.R.'],
     ['LAC', 'Chargers', 'Los Angeles Chargers', 'L.A.C.'],
     ['MIA', 'Miami', 'Dolphins', 'Miami Dolphins'],
     ['MIN', 'Minnesota', 'Vikings', 'Minnesota Vikings'],
